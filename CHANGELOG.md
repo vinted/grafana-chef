@@ -2,7 +2,9 @@
 
 This file is used to list changes made in each version of grafana.
 
-## Unreleased
+## 10.2.0
+
+* Add `enabled` property to `config_unified_alerting` resource; this permits opting out of unified alerting that was [introduced](https://grafana.com/docs/grafana/v9.0/alerting/migrating-alerts/opt-out/) in v9.0.
 
 ## 10.1.0 - *2022-10-13*
 
